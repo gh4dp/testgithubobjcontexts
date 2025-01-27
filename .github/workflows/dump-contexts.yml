@@ -1,3 +1,5 @@
+name: This-one-for-all-contexts
+
 on: push
 
 jobs:
